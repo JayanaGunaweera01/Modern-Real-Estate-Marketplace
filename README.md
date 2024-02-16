@@ -1,15 +1,15 @@
 
 # Modern-Real-Estate-Marketplace
 
-## View Project
+### View Project
 
 - Click: https://mern-estate-hew2.onrender.com/
 
-## Overview
+### Overview
 
 This is a Modern Real Estate Marketplace built with MERN Stack.
 
-### Prerequisites
+#### Prerequisites
 
 - Setup firebase web app project
 - Setup mongo DB
