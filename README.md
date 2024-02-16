@@ -9,7 +9,7 @@
 
 This is a Modern Real Estate Marketplace built with MERN Stack.
 
-#### Prerequisites
+### Prerequisites
 
 - Setup firebase web app project
 - Setup mongo DB
@@ -56,7 +56,7 @@ This is a Modern Real Estate Marketplace built with MERN Stack.
      npm run dev
     ```
 
-## Technologies Used
+### Technologies Used
 
 - MERN stack
 - tailwindcss
