@@ -66,3 +66,7 @@ This is a Modern Real Estate Marketplace built with MERN Stack.
 - redux toolkit
 - deployed using Render 
 
+### Other
+
+Runs in http://localhost:5173/ (client),  http://localhost:3000/ (server)
+
