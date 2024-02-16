@@ -1,6 +1,4 @@
 
-An E-Commerce App built with MERN
-
 # Modern-Real-Estate-Marketplace
 
 ## View Project
@@ -54,7 +52,7 @@ This is a Modern Real Estate Marketplace built with MERN Stack.
 
  4. Run the project :
 
-         ```
+    ```
      npm run dev
     ```
 
