@@ -60,11 +60,17 @@ This is a Modern Real Estate Marketplace built with MERN Stack.
   
 3. Update .env:
 
-   MONGO = 'Your mongodb secret'
+- MONGO = 'Your mongodb secret'
 
-   VITE_FIREBASE_API_KEY = "Your firebase secret"
+- VITE_FIREBASE_API_KEY = "Your firebase secret"
 
-   JWT_SECRET = 'Your jwt secret'
+ - JWT_SECRET = 'Your jwt secret'
+
+ 4. Run the project :
+
+         ```
+     npm run dev
+    ```
 
 ## Technologies Used
 
